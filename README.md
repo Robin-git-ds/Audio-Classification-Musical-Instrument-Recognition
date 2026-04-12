@@ -1,0 +1,2 @@
+# Audio-Classification-Musical-Instrument-Recognition
+Built a CNN-LSTM hybrid model to classify audio clips across 10 musical instrument categories. Preprocessed signals using FFT and min-max normalization, and designed the architecture to capture both spectral and temporal dependencies. Achieved 83% accuracy and F1-score of 0.863, with a scalable pipeline for future audio and signal processing tasks.
